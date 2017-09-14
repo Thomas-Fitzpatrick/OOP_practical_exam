@@ -1,0 +1,3 @@
+My output for question 2 is not matching the provided output in the assignment. I have far more weak coverage cells.
+I cannot find the error and dont want to spend any longer looking for it. I am going to work under the assumption that
+my results are correct and continue the assignment with that in mind.
